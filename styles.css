@@ -418,8 +418,8 @@ img{
     text-transform: uppercase;
   }
 
-  @media (max-width: 600px){
-  #table thead th{
+  @media (max-width: 400px){
+  .table thead th{
     padding-right: 5px;
   }
 }
