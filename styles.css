@@ -420,7 +420,7 @@ img{
 
   @media (max-width: 600px){
   .table thead th{
-    padding-left: 3px;
+    padding-right: 5px;
   }
 }
 }
