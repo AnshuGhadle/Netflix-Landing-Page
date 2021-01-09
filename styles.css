@@ -418,9 +418,5 @@ img{
     text-transform: uppercase;
   }
 
-  @media (max-width: 400px){
-  .tab-content-item{
-    width: 20%;
-  }
-}
+
 }
