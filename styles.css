@@ -419,8 +419,8 @@ img{
   }
 
   @media (max-width: 400px){
-  .table thead th{
-    padding-right: 5px;
+  .tab-content-item{
+    width: 20%;
   }
 }
 }
